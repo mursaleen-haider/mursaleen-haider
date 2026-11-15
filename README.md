@@ -27,9 +27,9 @@
 - [ ] Blog Platform (MERN)
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=mursaleen-haider&theme=tokyonight" />
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=mursaleen-haider&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</div>
 
 ### 📫 Let's Connect
 I'm open to learning, collaborating, and growing with other developers. Message me on LinkedIn!
