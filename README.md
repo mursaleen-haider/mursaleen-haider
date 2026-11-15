@@ -28,7 +28,7 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mursaleen-haider&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://streak-stats.demolab.com?user=mursaleen-haider&theme=tokyonight" />
 </p>
 
 ### 📫 Let's Connect
